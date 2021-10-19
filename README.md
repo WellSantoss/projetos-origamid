@@ -19,3 +19,4 @@ Projetos desenvolvidos durante os cursos de front-end da Origamid.
 - [**Brafe 2** - CSS Avançado Posicionamento](/brafe2)
 - [**Le Scone** - CSS com SASS](/le-scone)
 - [**Wildbeast** - CSS Grid Layout](/wildbeast)
+- [**Slide** - JavaScript Completo ES6+](/slide)
