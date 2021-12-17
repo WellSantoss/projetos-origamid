@@ -1,24 +1,20 @@
-# techno-cursos
+# Techno Cursos
 
-## Project setup
-```
-npm install
-```
+## Sobre
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeto desenvolvido durante o curso Vue.js 2 Completo.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Resultado
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Resultado](./src/assets/result.png)
+
+[CLique aqui para ver o resultado final!](https://wellsantoss.github.io/projetos-origamid/techno-cursos/dist/index.html)
+
+---
+
+## Tecnologias utilizadas
+
+- Vue.js;
+- Vue Router.

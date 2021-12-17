@@ -20,3 +20,4 @@ Projetos desenvolvidos durante os cursos de front-end da Origamid.
 - [**Le Scone** - CSS com SASS](/le-scone)
 - [**Wildbeast** - CSS Grid Layout](/wildbeast)
 - [**Slide** - JavaScript Completo ES6+](/slide)
+- [**Techno Cursos** - Vue.js 2 Completo](/techno-cursos)
